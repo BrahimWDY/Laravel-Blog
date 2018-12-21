@@ -1,0 +1,79 @@
+
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+#home{
+    text-align: center;
+
+}
+
+.card{
+    display: inline-block;
+    margin: 100px 39px;
+}
+
+.formulaire{
+    margin-top: 100px;
+
+}
+
+.card-title {
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.btn.btn-primary.btn1 {
+    margin: 0 auto;
+    display: block;
+}
+
+.price{
+    float: right;
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+.boutton{
+    display: inline-block;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+.btn.btn-primary {
+    margin: 20px 80px;
+}
+
+
+.fa-edit{
+    text-decoration: none;
+    list-style: none;
+    color: dodgerblue;
+    font-size: 22px;
+    margin-right: 10px;
+}
+
+.fa-edit:hover{
+    opacity: 0.5;
+    transition: 0.5s;
+}
+
+.fa-trash-alt{
+    text-decoration: none;
+    list-style: none;
+    color: #e50914;
+    font-size: 22px;
+}
+
+
+.fa-trash-alt:hover{
+    opacity: 0.5;
+    transition: 0.5s;
+}
